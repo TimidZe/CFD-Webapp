@@ -29,10 +29,6 @@ npm install react-plotly.js plotly.js axios
 npm start
 ```
 
-然后，你可以看到如下图所示的界面，说明前端编译成功
-
-![b608425928482c566a115a4ff7f5756.png](attachment:ff23c812-786e-4280-8735-acbe6c843c4b:b608425928482c566a115a4ff7f5756.png)
-
 ### 0.3.2 将核心文件copy进项目
 
 创建文件：
